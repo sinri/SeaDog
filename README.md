@@ -1,5 +1,8 @@
 # SeaDog
 
+![Maven Central](https://img.shields.io/maven-central/v/io.github.sinri/SeaDog)
+![GitHub](https://img.shields.io/github/license/sinri/SeaDog)
+
 A framework targeting for JAVA 11 on Aliyun FC, with Keel eco.
 
 ## Quick Start
